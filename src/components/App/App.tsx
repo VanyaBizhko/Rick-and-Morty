@@ -1,6 +1,6 @@
 
 
-import List from "../List/List"; // Шлях до компонента List
+import List from "../List/List"; 
 
 function App() {
   return (
